@@ -8,7 +8,8 @@
   2. Various pretraining tasks can be used, such as pairwise sentence similarity prediction or triplet loss.
   3. Sentence transformers typically use architectures like BERT or RoBERTa as the base model but adapt them for sentence-level embeddings.
 - **Sentence Transformer vs BERT:**
-![image](https://github.com/user-attachments/assets/6004c7b1-4f26-4d65-bae8-5a2b6b746368)
+![image](https://github.com/user-attachments/assets/c72df462-f087-474a-aa85-93d33af34e59)
+
 
 
 
